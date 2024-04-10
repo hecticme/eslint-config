@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules
+
+# Windows specific files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Mac specific files
+.DS_Store
+
+# IDE
+.vscode
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Generated files
+dist
