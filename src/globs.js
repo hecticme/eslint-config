@@ -1,7 +1,14 @@
-export const GLOB_JS = '**/*.{js,jsx,mjs,cjs}'
-export const GLOB_TS = '**/*.{ts,tsx,mts,cts}'
-export const GLOB_VUE = '**/*.vue'
+const GLOB_JS = '**/*.{js,jsx,mjs,cjs}'
+const GLOB_TS = '**/*.{ts,tsx,mts,cts}'
+const GLOB_VUE = '**/*.vue'
 
-export const GLOBS_EXCLUDE = [
+const GLOBS_EXCLUDE = [
   '**/.nuxt',
 ]
+
+export default {
+  GLOB_JS,
+  GLOB_TS,
+  GLOB_VUE,
+  GLOBS_EXCLUDE,
+}
