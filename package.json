@@ -26,5 +26,13 @@
   "devDependencies": {
     "eslint": "^9.0.0",
     "typescript": "^5.4.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecticme/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hecticme/eslint-config/issues"
+  },
+  "homepage": "https://github.com/hecticme/eslint-config#readme"
 }
