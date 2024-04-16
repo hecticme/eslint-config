@@ -3,7 +3,7 @@
   "name": "@hecticme/eslint-config",
   "version": "0.0.0",
   "description": "Personal ESLint config of hecticme",
-  "main": "",
+  "main": "eslint.config.js",
   "type": "module",
   "scripts": {
     "lint": "eslint .",
