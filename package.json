@@ -5,6 +5,7 @@
   "description": "Personal ESLint config of hecticme",
   "main": "eslint.config.js",
   "type": "module",
+  "packageManager": "pnpm@9.4.0",
   "scripts": {
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -34,6 +35,5 @@
   "bugs": {
     "url": "https://github.com/hecticme/eslint-config/issues"
   },
-  "homepage": "https://github.com/hecticme/eslint-config#readme",
-  "packageManager": "pnpm@9.1.4"
+  "homepage": "https://github.com/hecticme/eslint-config#readme"
 }
