@@ -1,7 +1,7 @@
 {
   "author": "H. Ngọc Minh (hecticme)",
   "name": "@hecticme/eslint-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Personal ESLint config of hecticme",
   "repository": {
     "type": "git",
