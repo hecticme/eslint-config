@@ -92,11 +92,7 @@ export default tsEslint.config(
       ],
       '@stylistic/space-before-function-paren': [
         'error',
-        {
-          anonymous: 'always',
-          named: 'never',
-          asyncArrow: 'always',
-        },
+        'always',
       ],
     },
   },
